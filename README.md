@@ -1,4 +1,6 @@
 # OOAD-projekt
 Objektno Orijentisana Analiza i Dizajn
 
--prvi commit
+- [x] Serijski commit 
+- [ ] Paralelni commit
+

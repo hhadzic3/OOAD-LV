@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HARUN\\Documents\\GitHub\\OOAD-projekt\\NetCoreWebApp\\NetCoreWebApp\\NetCoreWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\HARUN\\Documents\\GitHub\\OOAD-LV\\NetCoreWebApp\\NetCoreWebApp\\NetCoreWebApp.csproj",
       "projectName": "NetCoreWebApp",
-      "projectPath": "C:\\Users\\HARUN\\Documents\\GitHub\\OOAD-projekt\\NetCoreWebApp\\NetCoreWebApp\\NetCoreWebApp.csproj",
+      "projectPath": "C:\\Users\\HARUN\\Documents\\GitHub\\OOAD-LV\\NetCoreWebApp\\NetCoreWebApp\\NetCoreWebApp.csproj",
       "packagesPath": "C:\\Users\\HARUN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HARUN\\Documents\\GitHub\\OOAD-projekt\\NetCoreWebApp\\NetCoreWebApp\\obj\\",
+      "outputPath": "C:\\Users\\HARUN\\Documents\\GitHub\\OOAD-LV\\NetCoreWebApp\\NetCoreWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HARUN\\AppData\\Roaming\\NuGet\\NuGet.Config",
